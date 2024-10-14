@@ -1,0 +1,25 @@
+1.Create stock
+Endpoint: /api/v1/stocks
+HTTP Method: POST
+Description: Membuat data stock baru.
+
+2.List stocks
+Endpoint: /api/v1/stocks
+HTTP Method: GET
+Description: Mengambil daftar semua data stock.
+
+3.Detail stock
+Endpoint: /api/v1/stocks/{id}
+HTTP Method: GET
+Description: Mengambil detail dari data stock berdasarkan id.
+
+4.Update stock
+Endpoint: /api/v1/stocks/{id}
+HTTP Method: PUT
+Description: Memperbarui data stock berdasarkan id.
+
+
+Delete stock
+Endpoint: /api/v1/stocks/{id}
+HTTP Method: DELETE
+Description: Menghapus data stock berdasarkan id.

@@ -1,0 +1,10 @@
+<repositories>
+    <repository>
+        <id>central</id>
+        <url>https://repo.maven.apache.org/maven2</url>
+    </repository>
+    <repository>
+        <id>spring-releases</id>
+        <url>https://repo.spring.io/release</url>
+    </repository>
+</repositories>
