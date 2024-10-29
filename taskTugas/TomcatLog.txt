@@ -1,0 +1,2 @@
+     Tomcat started on port(s): 8080 (http) with context path ''
+     Started YourApplication in X.XXX seconds (JVM running for X)
